@@ -79,8 +79,8 @@ ORDER BY c.famille, o.libelle_offre;
 -- le plus, quelle offre se vend le mieux et les lignes en détail. 
 
 
--- Requête 5 : Ici, j'ai demandé à l'IA une requête claire : ombien chaque promotion a-t-elle recruté d’abonnés, 
--- et combien a-t-elle coûté au journal ?
+-- Requête 5 : Ici, requête claire : ombien chaque promotion a-t-elle recruté d’abonnés, 
+-- et combien a-t-elle coûté au journal ? (simple donc faite par IA)
 
 
 SELECT p.libelle_promo,
